@@ -2,6 +2,4 @@
 
 ## Здесь будут выкладываться задания по НИСу
 
-### Таблица с результатами:
-
-http://serjmak.com/2students/GA/result.php
+<a href="http://serjmak.com/2students/GA/result.php" target="_blank">Таблица с результатами</a>
