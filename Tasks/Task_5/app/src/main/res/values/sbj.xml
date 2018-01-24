@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="second_course_list">
+        <item>КПО</item>
+        <item>ТВиМС</item>
+        <item>Групповая динамика</item>
+        <item>Архитектура вычислительных систем</item>
+        <item>АиСД</item>
+        <item>Операционные системы</item>
+        <item>Статистические и эмпирические методы компьютинга</item>
+        <item>Экономика фирмы</item>
+    </string-array>
+</resources>
