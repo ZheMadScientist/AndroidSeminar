@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Task_22</string>
+    <string name="message_hint">MESSAGE</string>
+    <string name="call_hint">CALL</string>
+
+    <string name="dialog_name_hint">Имя</string>
+    <string name="dialog_description_hint">Комментарий</string>
+    <string name="dialog_price_hint">Тел. номер</string>
+
+</resources>
