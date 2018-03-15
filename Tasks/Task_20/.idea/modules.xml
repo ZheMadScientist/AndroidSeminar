@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Task_20.iml" filepath="$PROJECT_DIR$/Task_20.iml" />
+      <module fileurl="file://C:\Users\Lysen\Documents\GitHub\Vedroid\Task_20\Task_20.iml" filepath="C:\Users\Lysen\Documents\GitHub\Vedroid\Task_20\Task_20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Lysen\Documents\GitHub\Vedroid\Task_20\app\app.iml" filepath="C:\Users\Lysen\Documents\GitHub\Vedroid\Task_20\app\app.iml" />
+    </modules>
+  </component>
+</project>
