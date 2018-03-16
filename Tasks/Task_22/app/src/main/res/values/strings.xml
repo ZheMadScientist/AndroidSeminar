@@ -7,4 +7,6 @@
     <string name="dialog_description_hint">Комментарий</string>
     <string name="dialog_price_hint">Тел. номер</string>
 
+    <string name="about_me">Лысенко Макар Константинович БПИ162</string>
+
 </resources>

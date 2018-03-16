@@ -22,4 +22,12 @@
         android:layout_margin="16dp"
         android:src="@drawable/ic_add_white_48dp"/>
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        style="@style/MyTextViewStyle"
+        android:text="@string/about_me"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
 </RelativeLayout>
